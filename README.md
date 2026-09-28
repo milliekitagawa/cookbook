@@ -1,15 +1,15 @@
-# Pinch recipe generator
+# Recipe Index
 
-A single-file recipe discovery site. Pick a difficulty, cooking-time limit, and craving; spin for a recipe, then save favorites to a personal cookbook. Saved recipes stay in the browser using `localStorage`.
+A self-contained, minimal recipe generator prototype. It includes preference-based generation, recipe browsing, sticky save actions, and an expanded full-screen recipe view.
 
-## Run it
+## Run locally
 
-From this folder, start a simple local server:
+Open `index.html` directly in a browser, or serve the folder locally:
 
-```bash
-python3 -m http.server 8000
+```sh
+python3 -m http.server 4173
 ```
 
-Open [http://localhost:8000](http://localhost:8000) in a browser. Stop the server with `Ctrl+C`.
+Then visit `http://localhost:4173`.
 
-No installs, build step, or external services are required.
+No install, build step, or external services are required.
