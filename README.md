@@ -1,6 +1,6 @@
 # PICK A PLATE
 
-PICK A PLATE is a minimal recipe generator for people who do not know what to cook or want more variation in their meals. Users choose a difficulty, cooking-time range, and dietary preference, then generate and browse matching recipes. Recipes can be saved to a personal cookbook, opened in a full-recipe view, and downloaded as self-contained PNG recipe sheets.
+PICK A PLATE is a minimal recipe generator for people who do not know what to cook or want more variation in their meals. Users choose a difficulty, cooking-time range, and dietary preference, then generate and browse matching recipes. Recipes can be saved to a list and downloaded as self-contained PNG recipe sheets.
 
 The project uses a small built-in recipe dataset, so it works immediately without accounts, APIs, or external services.
 
@@ -16,7 +16,7 @@ Then visit [http://localhost:4173](http://localhost:4173). No installation or bu
 
 ## AI tool used
 
-This project was developed with Codex. I used it to build the HTML, CSS, and JavaScript prototype; develop the recipe content; and iterate on visual hierarchy, interaction feedback, layout, saving, and download behavior.
+This project was developed with Codex.
 
 ## Selected prompts
 
